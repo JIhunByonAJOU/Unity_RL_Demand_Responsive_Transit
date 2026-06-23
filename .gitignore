@@ -1,0 +1,80 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/.utmp/
+
+# Unity generated files
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+
+# Crash and capture output
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+*.log
+crashlytics-build.properties
+
+# IDE and editor state
+/.vs/
+/.vscode/
+/.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.booproj
+*.svd
+ExportedObj/
+.consulo/
+
+# Platform/build tooling caches
+/.gradle/
+
+# Build artifacts and package exports
+*.apk
+*.aab
+*.app
+*.exe
+*.xcodeproj
+*.xcworkspace
+*.unitypackage
+*.unitypackage.meta
+
+# Addressables and Android generated output
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/
+
+# Local/generated project output
+/output/
+/outputs/
+/tmp/
+/_training_resume_logs/
+**/__pycache__/
+*.pyc
+
+# ML-Agents generated profiling output
+/[Aa]ssets/ML-Agents/Timers/*_timers.json
+/[Aa]ssets/ML-Agents/Timers/*_timers.json.meta
+events.out.tfevents.*
+events.out.tfevents.*.meta
+
+# Paid Unity Asset Store assets are intentionally not redistributed.
+/[Aa]ssets/Gley/
+/[Aa]ssets/Gley.meta
+
+# Keep imported assets, project settings, packages, .asset, and .meta files tracked.
